@@ -1,1 +1,2 @@
-# Project_2-Global_Emissions
+# Exploratory Data Analysis
+- Project 2 Global Emissions
